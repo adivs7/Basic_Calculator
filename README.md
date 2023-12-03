@@ -15,9 +15,6 @@
 - HTML5
 - CSS3
 
-## Screenshot 📸
-![Screenshot (45)](https://github.com/ankit-kumar-0/Basic-Calculator/assets/97076706/66e4cfd3-091b-4030-b10b-f68ad1cc5011)
-
 ## Contributing 🤝
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
 1. Fork the Project
@@ -27,7 +24,5 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 ## Support 📧
-For support, email ankitrajpsr@gmail.com
+For support, email adityavs167@gmail.com
 
-## Authors 👨‍💻
-- [@ankit-kumar-0](https://github.com/ankit-kumar-0)
